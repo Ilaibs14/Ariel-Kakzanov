@@ -215,6 +215,10 @@ li {
     .copyright p {
         font-size: 10px;
     }
+    .footer-social li {
+        /*float: right;*/
+        padding: 20px;
+    }
 }
 
 @media screen and (min-height: 1024px) {
