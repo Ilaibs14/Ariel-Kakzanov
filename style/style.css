@@ -102,7 +102,9 @@ li {
 /* Footer */
 .footer { 
     background-color: #f5f5f5;
-    padding: 50px 0;  
+    padding: 50px 0;
+    height: 100%;
+    width: 100%;
 }
 
 .footer-widget h3 {
@@ -200,6 +202,18 @@ li {
     }
     .about-content p {
         font-size: 14px;
+    }
+    
+    .ariel-footer-text {
+        display: none;
+    }
+    
+    .copyright-ilai p{
+        font-size: 10px;
+    }
+    
+    .copyright p {
+        font-size: 10px;
     }
 }
 
