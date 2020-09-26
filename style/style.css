@@ -189,7 +189,7 @@ li {
     }
     
     .about-parallax {
-        height: 150px;
+        display: none;
     }
     
     .about {
