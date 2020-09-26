@@ -125,18 +125,6 @@ li {
     padding: 0;
 }
 
-.about-parallax:before {
-    position: fixed;
-    opacity: 0.65;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-    margin: 0;
-    padding: 0; 
-}
-
 /* Footer */
 .footer{
     width: 100%;
@@ -197,6 +185,10 @@ li {
     
     .responsive-img {
         width: 70px;
+        height: 150px;
+    }
+    
+    .about-parallax {
         height: 150px;
     }
     
